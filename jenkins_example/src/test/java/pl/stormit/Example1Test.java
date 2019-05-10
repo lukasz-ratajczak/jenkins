@@ -22,7 +22,6 @@ public class Example1Test {
 	}
 
 	@Test
-	public void test5() {
-		
+	public void test5() {	
 	}
 }
